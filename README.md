@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 ScanCart — Self-Checkout Store System
 
 > A production-ready scan-and-go retail platform. Customers scan product barcodes, add to cart, pay digitally, and exit with a secure QR verification token — no queues, no cashier.
@@ -202,3 +203,6 @@ Use Razorpay test credentials:
 ## 📄 License
 
 MIT — Built with ❤️ using the MERN stack
+=======
+# self-checkout-store
+>>>>>>> a0ba2289ca89baefcb6c2120a6141f2eeaeeff02
