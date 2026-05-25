@@ -1,4 +1,6 @@
+
 {
+<<<<<<< HEAD
   "version": 2,
   "rewrites": [
     {
@@ -22,4 +24,17 @@
       "routePrefix": "/_/backend"
     }
   }
+=======
+    "experimentalServices": {
+        "frontend": {
+            "root": "frontend",
+            "routePrefix": "/",
+            "framework": "vite"
+        },
+        "backend": {
+            "root": "backend",
+            "routePrefix": "/_/backend"
+        }
+    }
+>>>>>>> 5483e484626721aae38b33265e5a5731870801d3
 }
